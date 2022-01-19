@@ -28,8 +28,19 @@ Proper caching is done in SQLite to reduce fetching of data and improve performa
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/gaurav1903/PlacementCellApp/blob/master/assets/img101.png)_________________________________________________________________________________________________________________________________________________
 
+
+![App Screenshot](https://github.com/gaurav1903/PlacementCellApp/blob/master/assets/img102.png)_________________________________________________________________________________________________________________________________________________
+
+
+![App Screenshot](https://github.com/gaurav1903/PlacementCellApp/blob/master/assets/img103.png)_________________________________________________________________________________________________________________________________________________
+
+
+![App Screenshot](https://github.com/gaurav1903/PlacementCellApp/blob/master/assets/img104.png)_________________________________________________________________________________________________________________________________________________
+
+
+![App Screenshot](https://github.com/gaurav1903/PlacementCellApp/blob/master/assets/img105.png)
 
 ## Tech Stack
 
