@@ -28,6 +28,8 @@ This Also Saves Time As They Can Now Send The Links For The Role To The Students
 FOR PLACEMENT OFFICE-
 This Platform Would Help  The Placement Cell To Keep Track Of Recruiters And Student’s Data But In Addition To That It Would Make The Whole Hiring Process Seamless And Clear Any Misinformation That’s Been Going Around.
 
+**The app is still in development phase as i am adding new features everyday in the app.  A new UI update is coming out really soon.**
+
 
 
 ## Authors
