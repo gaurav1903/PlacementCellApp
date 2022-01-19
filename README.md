@@ -15,6 +15,19 @@ There are 5 major screens
 - The fourth screen is a inbox page where you can send and see recieved messages.
 - The last page is the profile page where you can set/update your data.
 
+The goal of the app was to make a platform which can fulfill the following requirements of Recruiters, Placement Cell and the Students-
+
+For STUDENTS –
+This Platform Would Provide Features Such As Contact A Recruiter Or Send Recruiter Their Resume.If The Recruiter Allows ,He Can Accept To Further Get In Talks With You.This Is To Prevent Spamming On Recruiter’s Side.
+Students Would Be Asked To Make A Profile Page Where They Would Fill Just The Necessary Info About Their Skills And Experience.
+
+FOR RECRUITERS-
+This Platform Would Provide Them With List Of Students Based On The Skills Or The College Or Cgpa Or Combination Of These. Further They Would Be Saved From Constant Spamming Of Messages That They Are Subjected To.
+This Also Saves Time As They Can Now Send The Links For The Role To The Students With The Relevant Skills Belonging To Multiple Colleges At Once Without The Need To Actually Visit The College Itself.
+
+FOR PLACEMENT OFFICE-
+This Platform Would Help  The Placement Cell To Keep Track Of Recruiters And Student’s Data But In Addition To That It Would Make The Whole Hiring Process Seamless And Clear Any Misinformation That’s Been Going Around.
+
 
 
 ## Authors
